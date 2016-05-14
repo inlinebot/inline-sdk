@@ -1,0 +1,38 @@
+{
+  "name": "inline-sdk",
+  "version": "0.0.1",
+  "description": "SDK of the Inline Bot for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inlinebot/inline-sdk.git"
+  },
+  "keywords": [
+    "line",
+    "bot",
+    "api",
+    "node",
+    "node.js",
+    "inline",
+    "sdk"
+  ],
+  "author": "Rollables",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inlinebot/inline-sdk/issues"
+  },
+  "homepage": "https://github.com/inlinebot/inline-sdk",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "line-bot-sdk": "^0.1.1",
+    "lodash": "^4.12.0",
+    "spinal": "^0.4.17"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
