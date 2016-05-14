@@ -1,6 +1,6 @@
 {
   "name": "inline-sdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SDK of the Inline Bot for Node.js",
   "main": "index.js",
   "scripts": {
